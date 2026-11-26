@@ -42,11 +42,13 @@ Custom CVD reactors, developed since 2005, to harness the properties of diamond 
 
 ## > Contact
 
-📍 France
-📞 +33 1 64 56 20 00
-✉️ [client@plassys.com](mailto:client@plassys.com)
-🌐 [www.plassys.com](https://www.plassys.com) · [Our systems](https://www.plassys.com/categories) · [Contact us](https://www.plassys.com/contact)
-
 <div align="center">
+
+- 📍 France
+- 📞 +33 1 64 56 20 00
+- ✉️ [client@plassys.com](mailto:client@plassys.com)
+- 🌐 [www.plassys.com](https://www.plassys.com) · [Our systems](https://www.plassys.com/categories) · [Contact us](https://www.plassys.com/contact)
+
+
 <sub>© PLASSYS Bestek — Innovation in vacuum deposition since 1987</sub>
 </div>
