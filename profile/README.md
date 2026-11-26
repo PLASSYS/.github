@@ -20,26 +20,6 @@ Founded in **1987** in France, **PLASSYS Bestek** designs and manufactures vacuu
 
 Our systems are used by research laboratories, universities, corporate R&D centers and production sites around the world. Every machine is specified together with our partners and **fully tested on our premises before delivery**.
 
-## > Our technologies
-
-| Technique | Description |
-|---|---|
-| **Evaporation** | Thermal (Joule) or electron-beam evaporation (HV, near-UHV, UHV), angle deposition, controlled oxidation |
-| **Sputtering** | Adjustable geometries, processes tailored to each application |
-| **Ion beam etching** | Surface preparation and patterning |
-| **Indium thermal deposition** | High deposition rates, thicknesses up to several tens of microns |
-| **PECVD / MPCVD diamond** | Microwave plasma reactors for diamond film and gem growth |
-
-## > Our product lines
-
-### QUTEK™ — Quantum technologies
-Deposition systems for superconducting qubits, photonics, spins and color centers. PLASSYS has supported Josephson junction research since the 1990s, and its machines are now at the heart of many labs working on quantum computing.
-> *[Learn more](https://www.plassys.com/quantum)*
-
-### DIAMTEK™ — Lab-grown diamond
-Custom CVD reactors, developed since 2005, to harness the properties of diamond for electronic, quantum, mechanical, optical and thermal applications.
-> *[Learn more](https://www.plassys.com/diamond)*
-
 ## > Contact
 
 <div align="center">
